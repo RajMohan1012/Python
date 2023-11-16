@@ -16,3 +16,4 @@ t1.display()    # method in parent classs
 
 t2=test1("jhon",24,"chennai")   #object created by using child class
 t2.display()    # method in parent classs 
+##
